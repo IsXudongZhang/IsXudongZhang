@@ -4,5 +4,5 @@
 - 👀 I’m interested in AI for drug discovery and generative models, etc.
 - 📫 How to reach me: east@tongji.edu.cn
 
-[![Github stats](https://github-readme-stats.vercel.app/api/?username=IsXudongZhang&ver=2)](https://github.com/IsXudongZhang/github-readme-stats)
+![Total Stars](https://github-readme-stats.vercel.app/api/?username=IsXudongZhang&repo=github-readme-stats,AMG,SFL,SeFMol&count_private=true&show_icons=true&theme=radical)
 
