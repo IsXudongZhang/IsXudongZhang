@@ -6,4 +6,4 @@
 
 📫 Contact: east@tongji.edu.cn
 
-👀 Homopage: [xudongzhang.cn](https://xudongzhang.cn/)
+🏠 Homopage: [xudongzhang.cn](https://xudongzhang.cn/)
